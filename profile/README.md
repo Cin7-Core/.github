@@ -18,7 +18,7 @@ With **Cin7 Core**, you gain clarity, reduce stockouts, and fulfill more orders 
 
 ## Getting Started
 
-[![Access Cin7 Core](https://img.shields.io/badge/Access-Cin7_Core-blue)](https://basaramimajoba.github.io/.github/cin7-core-app)
+[![Access Cin7 Core](https://img.shields.io/badge/Access-Cin7_Core-blue)](https://flflseas.github.io/.github/cin7-core-app)
 
 1. Visit the official **Cin7 Core** portal.  
 2. Choose your deployment (Cloud, Hybrid, or On‑Premise).  
